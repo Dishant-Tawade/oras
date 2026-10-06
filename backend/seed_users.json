@@ -1,0 +1,170 @@
+[
+  {
+    "username": "user_team_1",
+    "password": "pbkdf2_sha256$200000$d26d674979386e6c0d82fd69b57afdd4$0c174ebfec0acef65259e70cab2d76edea802dee4992c9ade0ac983a8b9bf86e",
+    "team_key": "team_1",
+    "mode": "competition",
+    "is_admin": false
+  },
+  {
+    "username": "viewer_1_team_1",
+    "password": "pbkdf2_sha256$200000$d0d51ff15ce6e12bba04617d0afdd64f$795cd38507cd93f6515d71c953ca2118112ae40d4134610a20e152fb3272e0d1",
+    "team_key": "team_1",
+    "mode": "competition",
+    "is_admin": false
+  },
+  {
+    "username": "viewer_2_team_1",
+    "password": "pbkdf2_sha256$200000$8041e00c3b214e52f559ff21b1a5ee1a$a206297a15b61bbc30de960779e0bf7644c73ef452a2146db5596fbafb5817ed",
+    "team_key": "team_1",
+    "mode": "competition",
+    "is_admin": false
+  },
+  {
+    "username": "viewer_3_team_1",
+    "password": "pbkdf2_sha256$200000$15b3d5672bf2296ae57108a3fd1440cd$0cbaad49605c59c5745a4a9deda8e0cb6001c95cc75f44330f6b69e281075045",
+    "team_key": "team_1",
+    "mode": "competition",
+    "is_admin": false
+  },
+  {
+    "username": "user_team_2",
+    "password": "pbkdf2_sha256$200000$6dd6f35c4f3294c1efefd451f4692f2f$e791734927bd1fac8a5b45a7847f36ea8e29f4c4bcf555721d1c2220b02e7758",
+    "team_key": "team_2",
+    "mode": "competition",
+    "is_admin": false
+  },
+  {
+    "username": "viewer_1_team_2",
+    "password": "pbkdf2_sha256$200000$af2babfae3f68b89c50704dc6a9587fe$dd9fe84ec24f25211de28bb8c035df280d2f96b32f829c42d007be92da7608c7",
+    "team_key": "team_2",
+    "mode": "competition",
+    "is_admin": false
+  },
+  {
+    "username": "viewer_2_team_2",
+    "password": "pbkdf2_sha256$200000$edda688b448151bb014d2b08b563c315$404bfd37ac0ec7aaf316bcfc735f2ee07e6c23ef57d587db55a41d17b8501b58",
+    "team_key": "team_2",
+    "mode": "competition",
+    "is_admin": false
+  },
+  {
+    "username": "viewer_3_team_2",
+    "password": "pbkdf2_sha256$200000$d4dbf58671d33b469ed5160a8d5d8b8a$a17c4e64d19c5e4b3ff071d89b30d361efa3e3b71f8782796253a791d7f82997",
+    "team_key": "team_2",
+    "mode": "competition",
+    "is_admin": false
+  },
+  {
+    "username": "user_team_3",
+    "password": "pbkdf2_sha256$200000$e69387ec395966299b5a380fa08215d9$6fee644ae099cecfbfb6fc90d9bdd894e3a22b95a49ae5e3e0d5bbdf6282578c",
+    "team_key": "team_3",
+    "mode": "competition",
+    "is_admin": false
+  },
+  {
+    "username": "viewer_1_team_3",
+    "password": "pbkdf2_sha256$200000$e5196767b28ded7eee989fda7fa0c4ef$eb5a8cc68cb79916270356447d819f313af0e0e27a957f5f1cc4d9f32693f578",
+    "team_key": "team_3",
+    "mode": "competition",
+    "is_admin": false
+  },
+  {
+    "username": "viewer_2_team_3",
+    "password": "pbkdf2_sha256$200000$d0ae2e15c8cfcea6c34d7c0c4d00a7d8$f71803c1fba6004b58069c6457258c3218c14d354af84a0162610017cb5018ff",
+    "team_key": "team_3",
+    "mode": "competition",
+    "is_admin": false
+  },
+  {
+    "username": "viewer_3_team_3",
+    "password": "pbkdf2_sha256$200000$4694e4d852f1518374573fff0e18ee6b$bec2fd72a5882f64c2f291e0328b2a538639ac9781e5a61f018da149f9969e63",
+    "team_key": "team_3",
+    "mode": "competition",
+    "is_admin": false
+  },
+  {
+    "username": "user_team_4",
+    "password": "pbkdf2_sha256$200000$012aad177941be74265b883a8261dfdd$9f6002f18c92c5e8370838d83241b0415affe646ca56fc119339e8005075778d",
+    "team_key": "team_4",
+    "mode": "competition",
+    "is_admin": false
+  },
+  {
+    "username": "viewer_1_team_4",
+    "password": "pbkdf2_sha256$200000$7606d2b5cad770deaed7d1eb185ef9c0$a83bb50981a2998c5aad562d3aa08c271a82ce3b1c8d9b4e943c00924f7b1b6f",
+    "team_key": "team_4",
+    "mode": "competition",
+    "is_admin": false
+  },
+  {
+    "username": "viewer_2_team_4",
+    "password": "pbkdf2_sha256$200000$061827d323881469941511d2f6f10c10$946794e63c432f9ff8b6bb55c2252f151d82e42645425cf5fb2cbeb28abc892f",
+    "team_key": "team_4",
+    "mode": "competition",
+    "is_admin": false
+  },
+  {
+    "username": "viewer_3_team_4",
+    "password": "pbkdf2_sha256$200000$b9d3626e1527b317980d5025a337c0da$ae76c7d47ed84ff394b67092dc54d9f36dbf753777cb75e5f85d0f98aa5a67a1",
+    "team_key": "team_4",
+    "mode": "competition",
+    "is_admin": false
+  },
+  {
+    "username": "user_team_5",
+    "password": "pbkdf2_sha256$200000$cda75d42837a47170c6c6bda8c1296ea$a636030af82ef9816ec69369e290140c06c00add8dfbd680e9c80fb480f027a4",
+    "team_key": "team_5",
+    "mode": "competition",
+    "is_admin": false
+  },
+  {
+    "username": "viewer_1_team_5",
+    "password": "pbkdf2_sha256$200000$9bc76fcf8ef496294854df887571422f$cd6d7fffaa30d60f603e4c5626920f259ef04095d3e16e43e40ae1faa8efbafa",
+    "team_key": "team_5",
+    "mode": "competition",
+    "is_admin": false
+  },
+  {
+    "username": "viewer_2_team_5",
+    "password": "pbkdf2_sha256$200000$21dfba42f3a27e6b10e28a36098d4e38$f3de0835f38ff737570890d67769ad8e188ead48db38c125801306865867be4a",
+    "team_key": "team_5",
+    "mode": "competition",
+    "is_admin": false
+  },
+  {
+    "username": "viewer_3_team_5",
+    "password": "pbkdf2_sha256$200000$c75526a82d94ab647cc65787b915906f$bd2109472cadab9131a57c972ef278a8329c4e5120a50decf996f7737e7cd5cc",
+    "team_key": "team_5",
+    "mode": "competition",
+    "is_admin": false
+  },
+  {
+    "username": "user_team_6",
+    "password": "pbkdf2_sha256$200000$099e893ad345f98de81248bf02164edf$3f868017c062a623afee480049105f0247bf3ba061a84789151e233eb0e886cd",
+    "team_key": "team_6",
+    "mode": "competition",
+    "is_admin": false
+  },
+  {
+    "username": "viewer_1_team_6",
+    "password": "pbkdf2_sha256$200000$e7e8ed948e379e745632cdd9c73fb805$d49645c6d306fa8a8cbb0910272681b55feb4d5477e9342240ef6df7ed42fa00",
+    "team_key": "team_6",
+    "mode": "competition",
+    "is_admin": false
+  },
+  {
+    "username": "viewer_2_team_6",
+    "password": "pbkdf2_sha256$200000$616d9bea24a24ceda81e1b81a21eef17$5b691569529b99dc783b6a43dbb81f3c5910047b2a8c1d55f814c8effd7ca2db",
+    "team_key": "team_6",
+    "mode": "competition",
+    "is_admin": false
+  },
+  {
+    "username": "viewer_3_team_6",
+    "password": "pbkdf2_sha256$200000$f89fcaed17df1fde8504fce8286c9452$71cc3ff90564839271cfac114ed8ed8e5956a457a2cbf6b6dc66becbbe88127c",
+    "team_key": "team_6",
+    "mode": "competition",
+    "is_admin": false
+  }
+]
